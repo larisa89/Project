@@ -1,1 +1,10 @@
-git 
+1.	A script is an executable file, with commands to accomplish a specific task. It is a code used to automate processes that would otherwise need to be executed step by step by web developers.
+2.	By using bash, we can run script without the execute permission.
+3.	A for loop enables a set of conditions to be executed repeatedly, until the condition is satisfied.
+4.	Fi
+5.	I do have a lot of experience using awk and sed commands, and I have used them mostly in bash shell scripting. I have used the awk command to manipulate data and generate output, while the sed command I have used in scripting, to find and replace strings of words, or replace a line in script. I use the sed command when I want to edit a script, without vim into the file.
+
+
+
+git is a free open source distributed version control system, which coordinates work among programmers , and also tracks any changes to the source codes during software development.
+I would advise them to use the CIS benchmark guidelines, to secure their ubuntu servers. I will ask them to visit the cisecurity.org website and to get the document needed to secure their servers.
